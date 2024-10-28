@@ -23,7 +23,7 @@ else if (secretNumber > guess && attempts != maxAttempts - 1)
 {  
 System.out.println("The secret number is greater than your guess.");  
 }
- else if (secretNumber < guess && attempts != maxAttempts - 1)
+else if (secretNumber < guess && attempts != maxAttempts - 1)
 {  
 System.out.println("The secret number is less than your guess.");  
 }  
