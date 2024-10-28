@@ -7,7 +7,7 @@ Scanner input = new Scanner(System.in);
 int candidate1Votes = 0;
 int candidate2Votes = 0;
 int candidate3Votes = 0; 
-System.out.print(" Enter your name: ");
+System.out.print("Enter your name: ");
 String userName = input.nextLine();
 System.out.print("Enter your age: ");
 int userAge = input.nextInt();
