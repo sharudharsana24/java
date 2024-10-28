@@ -28,7 +28,7 @@ candidate2Votes++;
 }
 else if (userSelection == 3)
 {
-candidate3Votes;
+candidate3Votes++;
 }
 System.out.println("Thank you for voting, " + userName + "!");
 }
